@@ -1,0 +1,40 @@
+{
+  "customers": [
+    {
+      "id": "1",
+      "name": "Jim Long",
+      "email": "john@gmail.com",
+      "age": 31
+    },
+    {
+      "id": "3",
+      "name": "Tom Jones",
+      "email": "tom@gmail.com",
+      "age": 23
+    },
+    {
+      "name": "Harry White",
+      "email": "harry@gmail.com",
+      "age": 34,
+      "id": "rytP7hhUW"
+    },
+    {
+      "name": "Harry White",
+      "email": "harry@gmail.com",
+      "age": 34,
+      "id": "woyMenG"
+    },
+    {
+      "name": "Harry White",
+      "email": "harry@gmail.com",
+      "age": 34,
+      "id": "4ytn0_L"
+    },
+    {
+      "name": "Norm",
+      "email": "Norm@gmail.com",
+      "age": 4,
+      "id": "c-R-Sh-"
+    }
+  ]
+}
